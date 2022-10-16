@@ -19,6 +19,7 @@
 }
 .about-p2 p {
   padding-left: 30px;
+  padding-right: 5px;
   align-self: flex-start;
 }
 .about-images {
